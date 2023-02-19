@@ -5,3 +5,4 @@ Good bye!
 Line from user2
 
 test
+line from user1 - lesson about rebase
